@@ -1,0 +1,33 @@
+.btn{
+    height: 100px;
+    width: 100px;
+    border: 1px solid gray;
+}
+#orange{
+    background-color: orange;
+}
+/* #main{
+     margin: auto;
+    width: fit-content;
+    top:100px; 
+    bottom: 0;
+    border: 2px solid red;
+} */
+#input{
+    width: 100%;
+    background-color: white;
+    border: 3px solid black;
+    height: 60px;
+    text-align: right;
+}
+#Calculator{
+    text-align: center;
+}
+#out{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    height: 800px;
+}
